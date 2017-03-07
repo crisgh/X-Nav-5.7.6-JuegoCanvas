@@ -2,4 +2,4 @@
 Un sencillo juego con canvas
 
 # Pruebalo
-[Try](https://crisgh.github.io/X-Nav-5.7.6-JuegoCanvas/index.html)
+[Try](https://crisgh.github.io/X-Nav-5.7.6-JuegoCanvas/)
